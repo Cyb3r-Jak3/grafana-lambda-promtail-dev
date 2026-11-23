@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd src || exit 1
+make build
